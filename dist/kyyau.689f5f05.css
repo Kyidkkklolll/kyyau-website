@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --color-black: #000;
+  --color-white: #fff;
+  --padding-0: 0px;
+  --padding-20: 20px;
+  --font-inknut-antiqua: Inknut Antiqua, Arial, sans-serif;
+  --font-roboto-bold: Roboto Bold, Arial, sans-serif;
+  --fs-16: 16px;
+  --fs-20: 20px;
+}
+/*# sourceMappingURL=kyyau.689f5f05.css.map */

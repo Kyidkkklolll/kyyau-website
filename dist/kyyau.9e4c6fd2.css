@@ -1,0 +1,302 @@
+.desktop-1, .hero-section {
+  text-align: left;
+  font-size: var(--fs-20);
+  color: var(--color-black);
+  font-family: var(--font-inknut-antiqua);
+}
+
+.desktop-1 {
+  background-color: var(--color-white);
+  letter-spacing: normal;
+  width: 100%;
+  height: 1024px;
+  line-height: normal;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-section {
+  flex-shrink: 0;
+  width: 1057px;
+  height: 764px;
+  position: absolute;
+  top: -14px;
+  left: 1px;
+}
+
+.left-column {
+  flex-direction: column;
+  align-items: center;
+  gap: 384.8px;
+  width: 391px;
+  display: flex;
+  position: absolute;
+  top: 15px;
+  left: 0;
+}
+
+.kyyaucom-icon {
+  flex-shrink: 0;
+  align-self: stretch;
+  max-width: 100%;
+  height: 100.2px;
+  position: relative;
+  overflow: hidden;
+}
+
+.clothing-design {
+  box-sizing: border-box;
+  width: 281px;
+  max-width: 281px;
+  padding-left: var(--padding-20);
+  padding-right: var(--padding-20);
+  display: inline-block;
+  position: relative;
+}
+
+.merged-asset-1-icon {
+  object-fit: cover;
+  width: 711px;
+  height: 100%;
+  max-height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 346px;
+}
+
+.eyes-icon, .image-2-icon, .image-3-icon {
+  object-fit: cover;
+  width: 498px;
+  height: 270px;
+  position: absolute;
+  top: 0;
+  left: 124px;
+}
+
+.image-2-icon, .image-3-icon {
+  width: 204px;
+  height: 204px;
+  top: 560px;
+  left: 0;
+}
+
+.image-2-icon {
+  width: 223px;
+  height: 247px;
+  top: 236px;
+  left: 488px;
+}
+
+.d6a00e6a6361fecd5a1d7ea2ec670-icon {
+  object-fit: contain;
+  width: 447.4px;
+  height: 335.6px;
+  position: absolute;
+  top: 351px;
+  left: 128px;
+}
+
+.i-like-to-design-learn-new-t {
+  width: 438px;
+  height: 200.1px;
+  position: absolute;
+  top: 419px;
+  left: 133px;
+}
+
+.kyyaucom-icon2 {
+  bottom: -.2px;
+  left: -1px;
+}
+
+.kyyaucom-icon2, .kyyaucom-icon3, .kyyaucom-icon4 {
+  flex-shrink: 0;
+  width: 391px;
+  height: 100.2px;
+  position: absolute;
+}
+
+.kyyaucom-icon3 {
+  bottom: -.2px;
+  right: 2px;
+}
+
+.kyyaucom-icon4 {
+  top: 0;
+  right: 1px;
+}
+
+.divider-element-icon {
+  object-fit: cover;
+  flex-shrink: 0;
+  width: 127px;
+  height: 46px;
+  position: absolute;
+  bottom: 21px;
+  left: calc(50% - 65px);
+}
+
+.footer-nav-links, .footer-row {
+  align-items: flex-start;
+  display: flex;
+}
+
+.footer-row {
+  width: 819px;
+  padding: 41px var(--padding-0) 1px;
+  box-sizing: border-box;
+  flex-direction: column;
+  flex-shrink: 0;
+  max-width: 100%;
+  position: absolute;
+  top: 849px;
+  left: 406px;
+}
+
+.footer-nav-links {
+  isolation: isolate;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-self: stretch;
+  gap: 26px;
+  position: relative;
+}
+
+.instagram {
+  color: inherit;
+  z-index: 0;
+  flex-shrink: 0;
+  text-decoration: underline;
+  position: relative;
+}
+
+.roblox {
+  height: 52px;
+  padding: var(--padding-0) 19px var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+  z-index: 1;
+  flex-shrink: 0;
+  align-items: flex-start;
+  display: flex;
+}
+
+.roblox2 {
+  color: inherit;
+  line-height: 39px;
+  text-decoration: underline;
+  position: relative;
+}
+
+.spotify, .tiktok {
+  height: 52px;
+  padding: var(--padding-0) 17px var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+  z-index: 2;
+  flex-shrink: 0;
+  align-items: flex-start;
+  display: flex;
+}
+
+.tiktok {
+  padding: var(--padding-0) 2px var(--padding-0) var(--padding-0);
+  z-index: 3;
+}
+
+.cashapp {
+  color: inherit;
+  z-index: 4;
+  flex-shrink: 0;
+  line-height: 39px;
+  text-decoration: underline;
+  position: relative;
+}
+
+.hoping-to-add {
+  width: 264px;
+  height: 84px;
+  font-size: 24px;
+  font-family: var(--font-roboto-bold);
+  text-align: center;
+  z-index: 5;
+  flex-shrink: 0;
+  display: inline-block;
+  position: absolute;
+  top: -41px;
+  right: 0;
+  margin: 0 !important;
+}
+
+.image-1-icon, .k11-1-icon {
+  object-fit: contain;
+  flex-shrink: 0;
+  position: absolute;
+}
+
+.k11-1-icon {
+  width: 329.4px;
+  height: 270.7px;
+  bottom: 50.3px;
+  right: -34.4px;
+}
+
+.image-1-icon {
+  width: 173.3px;
+  height: 380.6px;
+  top: calc(50% - 190px);
+  left: -9px;
+}
+
+.graphic-design, .trading-futures {
+  transform-origin: 0 0;
+  flex-shrink: 0;
+  position: absolute;
+  top: calc(50% - 52.17px);
+  left: 131px;
+  transform: rotate(-.9deg);
+}
+
+.trading-futures {
+  top: calc(50% + .32px);
+  left: 126px;
+  transform: rotate(-.1deg);
+}
+
+.image-4-icon, .merged-asset-2-icon {
+  object-fit: cover;
+  flex-shrink: 0;
+  position: absolute;
+}
+
+.merged-asset-2-icon {
+  width: 345px;
+  height: 203px;
+  top: calc(50% - 246px);
+  right: 7.8px;
+}
+
+.image-4-icon {
+  width: 176px;
+  height: 313px;
+  top: 156px;
+  left: 273px;
+}
+
+@media screen and (width <= 450px) {
+  .cashapp, .clothing-design, .instagram, .roblox2 {
+    font-size: var(--fs-16);
+  }
+
+  .cashapp, .roblox2 {
+    line-height: 31px;
+  }
+
+  .hoping-to-add {
+    font-size: 19px;
+  }
+
+  .graphic-design, .trading-futures {
+    font-size: var(--fs-16);
+  }
+}
+/*# sourceMappingURL=kyyau.9e4c6fd2.css.map */
